@@ -1,0 +1,74 @@
+[28-May-2013 11:11:50 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lelena/public_html/auto_1_complete_without_cron.php on line 3
+[28-May-2013 11:11:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 9
+[28-May-2013 11:11:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lelena/public_html/auto_1_complete_without_cron.php on line 17
+[28-May-2013 11:11:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 31
+[28-May-2013 11:11:50 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(C:\wamp\wamp\www\dir): failed to open dir: No such file or directory' in /home/lelena/public_html/auto_1_complete_without_cron.php:33
+Stack trace:
+#0 /home/lelena/public_html/auto_1_complete_without_cron.php(33): DirectoryIterator->__construct('C:\wamp\wamp\ww...')
+#1 {main}
+  thrown in /home/lelena/public_html/auto_1_complete_without_cron.php on line 33
+[28-May-2013 11:30:26 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lelena/public_html/auto_1_complete_without_cron.php on line 3
+[28-May-2013 11:30:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 9
+[28-May-2013 11:30:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lelena/public_html/auto_1_complete_without_cron.php on line 17
+[28-May-2013 11:30:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 31
+[28-May-2013 11:30:26 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(C:\wamp\wamp\www\dir): failed to open dir: No such file or directory' in /home/lelena/public_html/auto_1_complete_without_cron.php:33
+Stack trace:
+#0 /home/lelena/public_html/auto_1_complete_without_cron.php(33): DirectoryIterator->__construct('C:\wamp\wamp\ww...')
+#1 {main}
+  thrown in /home/lelena/public_html/auto_1_complete_without_cron.php on line 33
+[28-May-2013 11:30:56 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lelena/public_html/auto_1_complete_without_cron.php on line 3
+[28-May-2013 11:30:56 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 9
+[28-May-2013 11:30:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lelena/public_html/auto_1_complete_without_cron.php on line 17
+[28-May-2013 11:30:56 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 31
+[28-May-2013 11:30:56 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(C:\wamp\wamp\www\dir): failed to open dir: No such file or directory' in /home/lelena/public_html/auto_1_complete_without_cron.php:33
+Stack trace:
+#0 /home/lelena/public_html/auto_1_complete_without_cron.php(33): DirectoryIterator->__construct('C:\wamp\wamp\ww...')
+#1 {main}
+  thrown in /home/lelena/public_html/auto_1_complete_without_cron.php on line 33
+[29-May-2013 08:08:29 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lelena/public_html/auto_1_complete_without_cron.php on line 3
+[29-May-2013 08:08:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 9
+[29-May-2013 08:08:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lelena/public_html/auto_1_complete_without_cron.php on line 17
+[29-May-2013 08:08:29 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 31
+[29-May-2013 08:08:29 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(C:\wamp\wamp\www\dir): failed to open dir: No such file or directory' in /home/lelena/public_html/auto_1_complete_without_cron.php:33
+Stack trace:
+#0 /home/lelena/public_html/auto_1_complete_without_cron.php(33): DirectoryIterator->__construct('C:\wamp\wamp\ww...')
+#1 {main}
+  thrown in /home/lelena/public_html/auto_1_complete_without_cron.php on line 33
+[29-May-2013 08:10:12 UTC] PHP Parse error:  syntax error, unexpected '¦¦' (T_STRING) in /home/lelena/public_html/search_keyword_php.php on line 11
+[29-May-2013 08:10:58 UTC] PHP Parse error:  syntax error, unexpected '¦¦' (T_STRING) in /home/lelena/public_html/search_keyword_php.php on line 11
+[29-May-2013 09:19:10 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lelena/public_html/auto_1_complete_without_cron.php on line 3
+[29-May-2013 09:19:10 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 9
+[29-May-2013 09:19:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lelena/public_html/auto_1_complete_without_cron.php on line 17
+[29-May-2013 09:19:10 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 31
+[29-May-2013 09:19:10 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(C:\wamp\wamp\www\dir): failed to open dir: No such file or directory' in /home/lelena/public_html/auto_1_complete_without_cron.php:33
+Stack trace:
+#0 /home/lelena/public_html/auto_1_complete_without_cron.php(33): DirectoryIterator->__construct('C:\wamp\wamp\ww...')
+#1 {main}
+  thrown in /home/lelena/public_html/auto_1_complete_without_cron.php on line 33
+[29-May-2013 09:57:26 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lelena/public_html/auto_1_complete_without_cron.php on line 3
+[29-May-2013 09:57:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 9
+[29-May-2013 09:57:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lelena/public_html/auto_1_complete_without_cron.php on line 17
+[29-May-2013 09:57:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/lelena/public_html/auto_1_complete_without_cron.php on line 31
+[29-May-2013 09:57:26 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(C:\wamp\wamp\www\dir): failed to open dir: No such file or directory' in /home/lelena/public_html/auto_1_complete_without_cron.php:33
+Stack trace:
+#0 /home/lelena/public_html/auto_1_complete_without_cron.php(33): DirectoryIterator->__construct('C:\wamp\wamp\ww...')
+#1 {main}
+  thrown in /home/lelena/public_html/auto_1_complete_without_cron.php on line 33
+[29-May-2013 10:02:08 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'ksetu'@'localhost' to database 'lelena_archived_links' in /home/lelena/public_html/server_auto_1.php on line 3
+[29-May-2013 10:02:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lelena/public_html/server_auto_1.php on line 9
+[29-May-2013 10:02:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lelena/public_html/server_auto_1.php on line 17
+[29-May-2013 10:02:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/lelena/public_html/server_auto_1.php on line 31
+[29-May-2013 10:02:08 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(C:\wamp\wamp\www\dir): failed to open dir: No such file or directory' in /home/lelena/public_html/server_auto_1.php:33
+Stack trace:
+#0 /home/lelena/public_html/server_auto_1.php(33): DirectoryIterator->__construct('C:\wamp\wamp\ww...')
+#1 {main}
+  thrown in /home/lelena/public_html/server_auto_1.php on line 33
+[29-May-2013 10:07:19 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'lelena_lelena'@'localhost' to database 'lelena_archived_links' in /home/lelena/public_html/server_auto_1.php on line 3
+[29-May-2013 10:07:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lelena/public_html/server_auto_1.php on line 9
+[29-May-2013 10:07:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lelena/public_html/server_auto_1.php on line 17
+[29-May-2013 10:07:19 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/lelena/public_html/server_auto_1.php on line 31
+[29-May-2013 10:07:19 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(C:\wamp\wamp\www\dir): failed to open dir: No such file or directory' in /home/lelena/public_html/server_auto_1.php:33
+Stack trace:
+#0 /home/lelena/public_html/server_auto_1.php(33): DirectoryIterator->__construct('C:\wamp\wamp\ww...')
+#1 {main}
+  thrown in /home/lelena/public_html/server_auto_1.php on line 33
